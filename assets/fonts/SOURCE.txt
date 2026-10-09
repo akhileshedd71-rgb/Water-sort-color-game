@@ -1,0 +1,5 @@
+Nunito by Vernon Adams, Jacques Le Bailly, and contributors.
+Source: https://github.com/google/fonts/tree/main/ofl/nunito
+Original variable font: https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/Nunito%5Bwght%5D.ttf
+Bundled static instances created with fontTools at weights 400, 700, and 800.
+Licensed under the SIL Open Font License 1.1; see ../FONT_LICENSE.txt.
